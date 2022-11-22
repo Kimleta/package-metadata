@@ -1,0 +1,13 @@
+de:
+    title: Contao Boxes
+    description: >
+        Extension Content-Box for the Contao 4 CMS
+    keywords:
+      - contao
+      - support
+      - layout
+      - content-menagment
+      - boxes
+    support:
+        issues: https://github.com/vonheldenundgestalten/contao-boxes/issues
+        docs: https://github.com/vonheldenundgestalten/contao-boxes

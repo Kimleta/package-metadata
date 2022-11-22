@@ -1,0 +1,12 @@
+de:
+    title: Contao Autowrap
+    description: >
+        Contao 4 bundle to wrap content elements for easier page layout and HTML organization.
+    keywords:
+      - contao
+      - support
+      - wrapper
+      - container
+    support:
+        issues: https://github.com/vonheldenundgestalten/contao-autowrap/issues
+        docs: https://github.com/vonheldenundgestalten/contao-autowrap
